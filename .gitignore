@@ -1,0 +1,13 @@
+#Ignore node_modules
+node_modules
+
+#Ignore all text files
+*.txt
+
+#Ignore files related to API keys
+.env
+
+#Ignore all PNG (QR code images) files
+*.png
+
+
